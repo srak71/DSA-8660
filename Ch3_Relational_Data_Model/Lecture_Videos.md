@@ -1,6 +1,6 @@
 # Chapter 3: Relational Data Model
 
-[Lecture 3.1, 3.2 Slides](Chapter%203_Relational%20Model.pptx)
+[Lecture 3.1, 3.2 Slides](~/Chapter_3_Relational_Model.pdf)
 
 [Video 3.1: Relational Model Overview](https://clemson.instructure.com/courses/253766/pages/video-3-dot-1-relational-model-overview?module_item_id=4572471)
 
