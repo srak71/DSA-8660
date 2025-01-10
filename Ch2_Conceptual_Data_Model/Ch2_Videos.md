@@ -1,5 +1,7 @@
 # Chapter 2: Conceptual Data Model
 
+[Lecture Slides](Slides_Ch2_Conceptual_Data_Modeling.pdf)
+
 [Video 2.1: ERD Overview](https://clemson.instructure.com/courses/253766/pages/video-2-dot-1-erd-overview?module_item_id=4572457)
 
 [Video 2.2: Modeling Entities](https://clemson.instructure.com/courses/253766/pages/video-2-dot-2-modeling-entities?module_item_id=4572458)

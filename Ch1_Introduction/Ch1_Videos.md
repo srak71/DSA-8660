@@ -1,5 +1,7 @@
 # Chapter 1: Introduction
 
+[Lecture Slides](Slides_Ch1_Introduction.pdf)
+
 [Video 1.1: Why Data Management?](https://clemson.instructure.com/courses/253766/pages/video-1-dot-1-why-data-management?module_item_id=4572446)
 
 [Video 1.2: Data vs Information](https://clemson.instructure.com/courses/253766/pages/video-1-dot-2-data-v-dot-s-information?module_item_id=4572447)
