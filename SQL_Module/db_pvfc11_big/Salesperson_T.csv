@@ -1,0 +1,10 @@
+﻿"SalespersonID","SalespersonName","SalespersonTelephone","SalespersonFax","SalesTerritoryId","SalespersonAddress","SalespersonCity","SalespersonState","SalespersonZip"
+3,"William Strong","315-382-1212",,3,"787 Syracuse Lane","Syracuse","NY","33240"
+9,"Mary Smithson","407-555-5555",,15,"4585 Maple Drive","Orlando","FL","32826"
+5,"Jacob Winslow","223-897-3498",,5,,,,
+8,"Mary James","303-555-5454",,4,"9 Red Line","Denver","CO","55555"
+2,"Robert Lewis","813-926-4006",,13,"124 Deerfield","Lutz","FL","33549"
+6,"Pepe Lepue",,,13,,"Platsburg","NY",
+1,"Doug Henny","813-444-5555",,2,,,,
+4,"Julie Dawson","435-534-6677",,4,,,,
+7,"Fred Flinstone",,,2,"1 Rock Lane","Bedrock","Ca","99999"

@@ -1,0 +1,6 @@
+﻿"EmployeeId","EmployeeName","EmployeeAddress","EmployeeCity","EmployeeState","EmployeeZip","EmployeeDateHired","EmployeeBirthDate","EmployeeSupervisor"
+"Laura","Laura Ellenburg","5342 Picklied Trout Lane","Nashville","TN","38010",2000-02-22,,"454-56-768"
+"332445667","Lawrence Haley","5970 Spring Crest Rd","Nashville","TN","54545",1999-01-05,1963-08-15,"454-56-768"
+"123-44-345","Phil Morris","2134 Hilltop Rd","Knoxville","TN",,1999-06-12,1957-01-05,"454-56-768"
+"454-56-768","Robert Lewis","17834 Deerfield Ln","Knoxville","TN","55555",1998-01-01,1964-08-25,"123-44-345"
+"555955585","Mary Smith","75 Jane Lane","Clearwater","Fl","33879",2000-08-15,1969-05-06,"332445667"

@@ -1,0 +1,4 @@
+﻿"PaymentTypeID","TypeDescription"
+"R","Refund"
+"T","Transfer"
+"D","Deposit"
